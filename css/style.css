@@ -265,9 +265,9 @@
 }
 
 .section-title h1::before,
-.section-title  {
+.section-title h1::after{
     position: absolute;
-    content: "";
+    
     width: 45px;
     height: 5px;
     bottom: 0;
