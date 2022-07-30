@@ -553,7 +553,7 @@
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(143, 168, 131), rgba(143, 168, 131)), url(../img/footer.jpg) center center no-repeat;
+    background:  url(../img/footer.jpg) center center no-repeat;
     background-size: cover;
 }
 
